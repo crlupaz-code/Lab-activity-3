@@ -1,0 +1,22 @@
+Task 2
+
+
+<html>
+<head>
+    <title>Formatting Challenge</title>
+</head>
+
+<body>
+
+    <h1>Welcome to HTML Learning</h1>
+
+    <p>HTML is the standard language for creating webpages.</p>
+
+    <p>Learning HTML is <mark>fun and useful</mark>.</p>
+
+    <p>Some old tags are deprecated.</p>
+
+    <p>Students must write the HTML code.</p>
+
+</body>
+</html>
